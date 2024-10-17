@@ -12,16 +12,16 @@ THIS project is broken down into a series of steps.
 
 #### Step 1: Scope the Project and Gather Data
 Since the scope of the project will be highly dependent on the data, these two things happen simultaneously.
-In this step data will be identified and gathered.
+In this step, data will be identified and gathered.
 
 #### Step 2: Explore and Assess the Data
 Explore the data to identify data quality issues, like missing values, duplicate data, etc.
 Document steps necessary to clean the data
 
 #### Step 3: Define the Data Model
-Map out the conceptual data model with model explaintion. 
+Map out the conceptual data model with model explanation. 
 List the steps necessary to pipeline the data into the chosen data model
-![diagrame](capstone.png)
+![diagrame](Diagram.png)
 
 
 #### Step 4: Run ETL to Model the Data
